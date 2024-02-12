@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+    color: rgba(30, 26, 26, 0.915);
+}
+
+section{
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+section p{
+    color: rgba(0, 0, 0, 0.747);
+    font-size: 20px;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.486);
+}
+
+footer{
+    color: rgba(30, 26, 26, 0.915);  
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
